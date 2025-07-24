@@ -1,9 +1,8 @@
-# TMP_Freight_Project
+# TMP Freight Project
 Analyzing US–Canada & US–Mexico Freight Trends using CRISP-DM Framework
 
 
 ## 1. Project Overview  
-– Purpose, stakeholders, and context.
 The objective of this project is to analyze the transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency and impacts of freight transportation across various modes (road, rail, air, and water). Using this data, the goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems.
 
 
@@ -18,25 +17,25 @@ The objective of this project is to analyze the transportation data provided by 
 
 
 ## 3. Data Understanding  
-– Data source 
-– Initial findings (missing values, distribution)
+- Data source 
+- Initial findings (missing values, distribution)
 
 ## 4. Data Preparation  
-– Cleaning steps & rationale  
-– Feature engineering details
+- Cleaning steps & rationale  
+- Feature engineering details
 
 ## 5. Analysis & Visualization  
 - Business questions are answered through various vizualisations e.g.bar charts, line graphs, etc. 
 
 ## 6. Conclusions & Recommendations  
-– Summary insights  
-– Actionable steps
+- Summary insights  
+- Actionable steps
 
 ## 7. Limitations & Future Work  
-– Data gaps, seasonality, potential expansions
+- Data gaps, seasonality, potential expansions
 
 ## 8. Files
-– Notebooks, scripts, presentation
+- Notebooks, scripts, presentation
 
 
 ### Kindly check the "Documentation" markdown file for further details
