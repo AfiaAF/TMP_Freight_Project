@@ -88,7 +88,7 @@ Future Plans:
 ________________________________________
 
 ## 8. Project Files
-•	Notebooks & Scripts: File Extraction and preparation, preliminary Data processing, analysis, and visualization
+•	Notebooks & Scripts: File Extraction and preparation
 
 •	Presentation Slides: Key findings and recommendations
 
